@@ -1,0 +1,15 @@
+# Project-local dependencies, caches and generated output
+/.deps/
+/.cache/
+/.local/
+/build/
+/dist/
+/.vs/
+**/.vs/
+*.user
+*.suo
+*.obj
+*.pdb
+*.ipch
+__pycache__/
+/canvas.bmp
